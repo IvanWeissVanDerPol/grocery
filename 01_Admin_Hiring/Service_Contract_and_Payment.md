@@ -60,23 +60,38 @@ Esta es la estructura definida para su ganancia neta:
 
 ---
 
-## 4. Servicios Adicionales ("Mise en Place" y Cocina)
+## 4. Servicios Adicionales en Cocina ("Mise en Place")
 
-**Opcional:** Si tienes disponibilidad y conocimientos básicos de cocina, se ofrece pago extra por procesamiento de alimentos al descargar.
+**Objetivo:** Dejar todo listo para cocinar (Meal Prep). Yo proveo los equipos (procesadora, licuadora, selladora).
 
-### Tareas Requeridas:
+### Tareas Específicas Requeridas:
 
-1.  **Carnicería de Aves:** Trozar los pollos caseros y separar .
-2.  **Jugos Concentrados:** (Si hay Naranja, Limón o Mburucuyá). Exprimir todo y guardar el jugo puro en bolsitas de hielo.
-3.  **Picado de Verduras:**
-    - Pelar y picar toda la **Cebolla** y el **Ajo** (usando procesadora).
-    - Limpiar y picar verduras para congelar.
-4.  **Meal Prep (Si sabes cocinar):** Dejar comidas o bases listas.
+1.  **Carnicería de Aves:**
+
+    - **Pollo:** Trozar y separar presas (Pechuga, Muslo, Patas, Alas).
+    - guardar las menudencias y huesos
+    - _Nota:_ Los animales grandes (Res/Cerdo/Cabra) **los faeno yo**, no hace falta tocar si es mucho trabajo.
+
+2.  **Jugos de Fruta (Naranja, Limón, Mburucuyá):**
+
+    - Exprimir todo el jugo.
+    - **IMPORTANTE:** Jugo **PURO 100%**, sin agregar agua.
+    - Guardar congelado en bolsitas de hielo o cubeteras.
+
+3.  **Preparación de Verduras (Mise en Place completo):**
+
+    - **Cebolla y Ajo:** Pelar y picar TODO (cubitos o procesadora). Guardar en taper/bolsa.
+    - **Resto de Verduras:** Lavar, pelar y dejar cortadas (cubos, rodajas, juliana) listas para tirar a la olla.
+    - _Ver detalle en:_ `08_Ingredient_Prep_Guide.md`.
+
+4.  **Meal Prep (Si hay tiempo):**
+    - Dejar bases listas (salsas, estofados marinados).
+    - Ver ideas en `07_Meal_Ideas.md` y guía de armado en `09_Meal_Assembly_Guide.md`.
 
 ### Pago por Servicio Adicional:
 
-_(Se paga aparte de la compra)_
+_(Se paga aparte de la compra y el viático)_
 
-- **Tarifa por Hora:** **Gs. 30.000 / hora** (Se estima 2-3 horas de trabajo post-compra).
-  - _Ejemplo:_ Si te quedas 3 horas a procesar todo: **+ Gs. 90.000**.
-- **Total Día Potencial:** 320.000 (Compra) + 90.000 (Cocina) = **Gs. 410.000 en un día.**
+- **Tarifa:** **Gs. 30.000 / hora**.
+- Se estima que procesar toda la compra (especialmente verduras y jugos) puede tomar 2-4 horas extra.
+- **Total Día Potencial:** 320.000 (Compra) + ~100.000 (Cocina) = **Gs. 420.000 (aprox).**

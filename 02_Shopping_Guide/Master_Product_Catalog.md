@@ -18,10 +18,10 @@
 | **Picanha**         | Triangular, capa de grasa blanca gruesa superior.       | Pieza entera (1.5 kg)                            | ![Picanha](images/picanha_raw_1767901217990.png)                 |
 | **Matambre**        | Rosado parejo, grasa fina.                              | Pieza entera (1.5 - 2 kg)                        |                                                                  |
 | **Osobuco**         | Rodajas gruesas con caracú grande.                      | 2-3 kg (cortado)                                 | ![Osobuco](images/osobuco_raw_1767901247243.png)                 |
-| **Aguja / Paleta**  | Sin nervios excesivos, buena para picar o estofado.     | Trozos de 1 kg                                   |                                                                  |
-| **Falda**           | Con hueso, buena carne.                                 | Tira entera (2 kg)                               |                                                                  |
-| **Garrón**          | Para caldo/hervido.                                     | Pieza entera (1-2 kg)                            |                                                                  |
-| **Carne Molida**    | De primera (picada en el momento).                      | 1 kg                                             |                                                                  |
+| **Aguja / Paleta**  | Sin nervios excesivos, buena para picar o estofado.     | Trozos de 1 kg                                   | _Pendiente_                                                      |
+| **Falda**           | Con hueso, buena carne.                                 | Tira entera (2 kg)                               | _Pendiente_                                                      |
+| **Garrón**          | Para caldo/hervido.                                     | Pieza entera (1-2 kg)                            | _Pendiente_                                                      |
+| **Carne Molida**    | De primera (picada en el momento).                      | 1 kg                                             | _Pendiente_                                                      |
 
 ## 2. CARNES: CERDO
 
@@ -95,13 +95,19 @@
 | **Piña**          | Olor dulce en la base.                 | 3 unidades                 | _Pendiente_ |
 | **Melón**         | Rocio de Miel o Japonés.               | 2 unidades                 | _Pendiente_ |
 | **Mamón**         | Carne firme.                           | 2 unidades                 | _Pendiente_ |
+| **Mburucuyá**     | Cáscara arrugada (bien maduro).        | 1 docena                   | _Pendiente_ |
+| **Guayaba**       | Fresca, sin golpes.                    | 1 kg                       | _Pendiente_ |
+| **Higo**          | Maduro (blando), color oscuro.         | 500 gr                     | _Pendiente_ |
+| **Uva**           | Negra o Rosada, dulce.                 | 1-2 kg                     | _Pendiente_ |
+| **Mango**         | Rosa o Tomy (sin fibra si es posible). | 3 unidades                 | _Pendiente_ |
+| **Ciruela**       | Roja/Negra, dulce.                     | 1 kg                       | _Pendiente_ |
+| **Durazno**       | Nacional o importado (jugoso).         | 1 kg                       | _Pendiente_ |
+| **Frutilla**      | Roja, fresca (temporada).              | 1 kg o 2 cajas             | _Pendiente_ |
 
 ## 7. EXÓTICOS Y ESPECIALES
 
 _Para sorprender. Comprar si la calidad es excelente._
 
-| Producto      | Notas                                                             | Imagen      |
-| :------------ | :---------------------------------------------------------------- | :---------- |
-| **Frutas:**   | Mburucuyá, Guayaba, Higo, Uva, Mango, Ciruela, Durazno, Frutilla. | _Pendiente_ |
-| **Mariscos:** | Camarón, Langostino, Pulpo, Calamar (Congelado OK).               | _Pendiente_ |
-| **Otros:**    | Queso Paraguay fresco, Huevo casero (maple).                      | _Pendiente_ |
+| Producto      | Notas                                               | Imagen      |
+| :------------ | :-------------------------------------------------- | :---------- |
+| **Mariscos:** | Camarón, Langostino, Pulpo, Calamar (Congelado OK). | _Pendiente_ |
