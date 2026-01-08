@@ -1,97 +1,92 @@
-# Estructura de Pagos y Estimación para Shopper
+# Contrato de Servicios y Estructura de Pagos (Versión Claridad Total)
 
-Esta es una estimación realista basada en precios actuales del mercado (San Lorenzo/Abasto) y el esfuerzo físico que implica mover este volumen.
-
-El trabajo es pesado: hay calor, olores fuertes, carga física (bolsas de 20kg, cajas de madera) y tráfico. Para que el "Shopper" sea fiel y cuide tu calidad, la paga debe ser atractiva.
-
-## 1. Estimación del Costo de los Productos (El "Ticket")
-
-Si compras todo lo de la lista (Llenar freezer y despensa de cero), el volumen es alto.
-
-### Carnicería (El grueso del gasto)
-
-- Costillar entero (aprox. 8-10kg): ~300.000 Gs.
-- Plancha Panceta (4-5kg) + Lechón/Cerdo: ~250.000 Gs.
-- Cortes duros/Osobuco (10kg+): ~280.000 Gs.
-- Pollo/Conejo/Órganos: ~200.000 Gs.
-- **Subtotal Carnes: ~1.000.000 - 1.200.000 Gs.**
-
-### Frutas y Verduras (Por caja/bolsa)
-
-- Cajas (Tomate, Locote, Manzana, Pera): ~400.000 Gs.
-- Bolsas pesadas (Papa, Cebolla, Zanahoria): ~180.000 Gs.
-- Frutas sueltas/docenas: ~150.000 Gs.
-- **Subtotal Vegetales: ~700.000 Gs.**
-
-### Despensa (Aceite oliva lata, Miel, Manteca bloque)
-
-- **Subtotal Despensa: ~400.000 Gs.**
-
-📉 **TOTAL ESTIMADO DE COMPRA (Ticket):** Entre **2.000.000 Gs. y 2.500.000 Gs.** por viaje (si es abastecimiento completo).
+> **Objetivo:** Transparencia absoluta. Este documento define exactamente qué se paga, cómo y cuándo.
 
 ---
 
-## 2. Análisis del Esfuerzo (Para calcular el pago)
+## 1. El Costo de la Mercadería (Reembolso)
 
-- **Tiempo:** 4 a 5 horas (Ir, recorrer varios puestos, esperar que corten la carne, cargar, volver, descargar).
-- **Desgaste Vehículo:** El auto va a oler a mercado/cebolla/carne. Necesita lavado después.
-- **Físico:** Cargar bolsas de 25kg de papa y costillares al hombro.
+_Es el dinero que va a los comercios, no a tu bolsillo._
 
----
-
-## 3. Propuesta Económica (Compras)
-
-Este modelo garantiza su tiempo (Fijo) e incentiva el manejo del volumen (Variable).
-
-### A. El Combustible (Viático Fijo)
-
-No le pidas tickets de nafta. Dale un monto fijo que cubra nafta y "lavado del auto".
-
-- **Monto sugerido:** **Gs. 70.000** (Cubre ida/vuelta en San Lorenzo + un lavado rápido).
-
-### B. El Honorario (X + Y)
-
-Esta es la estructura definida para su ganancia neta:
-
-- **X (Servicio Fijo):** Gs. 150.000 (Por ir y hacer el trabajo).
-- **Y (Comisión de Gestión):** 5% del total de la compra.
-- _Ejemplo:_ Si gasta 2.000.000, gana 100.000 extra.
-- _Total para él:_ 150k (fijo) + 100k (comisión) + 70k (viático) = **320.000 Gs.** (Muy buena paga, se pelearán por el puesto).
+- **Política de Ticket:** El usuario paga exactamente lo que figura en la factura del comercio. Ni un guaraní más, ni uno menos.
+- **Requisito:** Debes guardar **TODOS** los tickets físicos.
+- **Forma de Pago:**
+  - Opción A: Se te transfiere un adelanto estimado. Luego rindes el vuelto.
+  - Opción B: Haces la compra con tu dinero y se te reembolsa contra entrega.
 
 ---
 
-## 4. Servicios Adicionales en Cocina ("Mise en Place")
+## 2. Los 6 Pilares de tu Ganancia (Tu Pago Real)
 
-**Objetivo:** Dejar todo listo para cocinar (Meal Prep). Yo proveo los equipos (procesadora, licuadora, selladora).
+_Aquí está tu dinero. Se compone de 6 ítems separados:_
 
-### Tareas Específicas Requeridas:
+### Pilar 1: Honorario Fijo de Compra
 
-1.  **Carnicería de Aves:**
+> _Por sacar tu tiempo para ir al Mercado._
 
-    - **Pollo:** Trozar y separar presas (Pechuga, Muslo, Patas, Alas).
-    - guardar las menudencias y huesos
-    - _Nota:_ Los animales grandes (Res/Cerdo/Cabra) **los faeno yo**, no hace falta tocar si es mucho trabajo.
+- **Tarifa:** **Gs. 150.000** por viaje.
+- **Incluye:** Ir, estacionar, recorrer 3-4 puestos, discutir precios, cargar el auto.
 
-2.  **Jugos de Fruta (Naranja, Limón, Mburucuyá):**
+### Pilar 2: Logística y Vehículo
 
-    - Exprimir todo el jugo.
-    - **IMPORTANTE:** Jugo **PURO 100%**, sin agregar agua.
-    - Guardar congelado en bolsitas de hielo o cubeteras.
+> _Por usar tu auto, combustible y el desgaste._
 
-3.  **Preparación de Verduras (Mise en Place completo):**
+- **Tarifa:** **Gs. 70.000** por viaje.
+- **Nota:** Cubre nafta y el lavado posterior (olores). Es un monto fijo, no se piden tickets de nafta.
 
-    - **Cebolla y Ajo:** Pelar y picar TODO (cubitos o procesadora). Guardar en taper/bolsa.
-    - **Resto de Verduras:** Lavar, pelar y dejar cortadas (cubos, rodajas, juliana) listas para tirar a la olla.
-    - _Ver detalle en:_ `08_Ingredient_Prep_Guide.md`.
+### Pilar 3: Comisión de Gestión (El Incentivo)
 
-4.  **Meal Prep (Si hay tiempo):**
-    - Dejar bases listas (salsas, estofados marinados).
-    - Ver ideas en `07_Meal_Ideas.md` y guía de armado en `09_Meal_Assembly_Guide.md`.
+> _Premio por gestionar volumen._
 
-### Pago por Servicio Adicional:
+- **Tarifa:** **5% sobre el Total del Ticket.**
+- **Ejemplo:** Si compraste por valor de Gs. 2.000.000 -> Tu comisión es Gs. 100.000.
 
-_(Se paga aparte de la compra y el viático)_
+### Pilar 4: Servicio de Prep (Mise en Place)
 
-- **Tarifa:** **Gs. 30.000 / hora**.
-- Se estima que procesar toda la compra (especialmente verduras y jugos) puede tomar 2-4 horas extra.
-- **Total Día Potencial:** 320.000 (Compra) + ~100.000 (Cocina) = **Gs. 420.000 (aprox).**
+> _Por el trabajo manual de lavar, pelar y picar verduras._
+
+- **Tarifa:** **Gs. 30.000 por Hora de Reloj.**
+- **Se mide:** Desde que empiezas a lavar la primera papa hasta que cierras el último Tupper.
+
+### Pilar 5: Servicio de Carnicería (Butchery)
+
+> _Por la técnica especializada de desposte (Pago por Unidad)._
+
+- **Pollo Completo:** Gs. 10.000 c/u (Deshuese total).
+- **Conejo:** Gs. 15.000 c/u.
+- **Pieza Grande (Cerdo/Cabra):** Gs. 30.000 c/u.
+- **Piezas de Res (Costillar/Vacío):** Gs. 10.000 c/u.
+- **Menudencias (Lote):** Gs. 20.000 (Limpieza fina).
+
+### Pilar 6: Servicio de Cocina (Meal Assembly)
+
+> _Por cocinar los platos finales para la semana._
+
+- **Tarifa Batch:** **Gs. 150.000** por sesión (Cocinar 10-15 menús).
+
+---
+
+## 3. Reglas de Juego (Cláusulas)
+
+1.  **La Regla de la Foto:** Al terminar la compra, debes mandar foto de los tickets y del baúl cargado. Al terminar el Prep, foto de la heladera con los Tuppers. **Sin foto no hay pago final.**
+2.  **Calidad sobre Precio:** Si el tomate está barato pero podrido, **NO LO COMPRES**. Tu trabajo es filtrar calidad.
+3.  **Higiene:** El Mise en Place se hace con manos lavadas, mesada limpia y delantal.
+4.  **Ciclo de Pago:** Se paga inmediatamente al cerrar el día y verificar las fotos. Via transferencia bancaria.
+
+---
+
+## 4. Ejemplo de Factura (Para que entiendas cuánto ganas)
+
+**Escenario:** Haces un viaje grande. Compras 2.000.000 en carne y verdura. Llegas a casa, procesas verduras (3 horas), deshuesas 5 pollos y cocinas para la semana.
+
+| Concepto                  | Cálculo           | Tu Ganancia     |
+| :------------------------ | :---------------- | :-------------- |
+| **1. Honorario Compra**   | Fijo por viaje    | Gs. 150.000     |
+| **2. Logística**          | Fijo por viaje    | Gs. 70.000      |
+| **3. Comisión**           | 5% de 2.000.000   | Gs. 100.000     |
+| **4. Prep Verduras**      | 3 horas x 30.000  | Gs. 90.000      |
+| **5. Carnicería**         | 5 pollos x 10.000 | Gs. 50.000      |
+| **6. Cocina (Meal Prep)** | Sesión Fija       | Gs. 150.000     |
+| **TOTAL A COBRAR**        | _(Suma de todo)_  | **Gs. 610.000** |
+
+_+ Además se te reembolsan los Gs. 2.000.000 de los tickets._
