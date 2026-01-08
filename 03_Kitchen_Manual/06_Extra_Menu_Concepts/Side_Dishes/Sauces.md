@@ -1,31 +1,75 @@
-# Salsas fáciles y versátiles
+# Salsas y Aderezos (Uso de Despensa)
 
-## Vinagreta clásica
+Salsas rápidas usando los ingredientes de `Pantry_Essentials.md` y `Fridge_Freezer_Inventory.md`.
 
-- **Base:** aceite de oliva, vinagre de vino, mostaza Dijon, sal, pimienta.
-- **Proporción:** 3 partes de aceite por 1 de vinagre.
-- **Tip:** emulsiona con batidor o frasco; se conserva 1 semana en refrigerador.
+## 1. Clásicas de Mesa (Vinagretas)
 
-## Chimichurri ligero
+### Vinagreta Base (3:1)
 
-- **Base:** perejil picado, ajo, orégano, vinagre, aceite, ají molido.
-- **Proporción:** 1 taza de aceite, ¼ taza de vinagre, 2 cucharadas de ají.
-- **Tip:** deja reposar 30 min para que los sabores se integren.
+- **Ingredientes:** 3 cdas Aceite, 1 cda Vinagre (Alcohol o Manzana), Sal, Pimienta.
+- **Mejora:** Agrega 1 cdita de Mostaza para emulsionar.
 
-## Salsa de yogur y hierbas
+### Criolla Rápida
 
-- **Base:** yogur natural, jugo de limón, cilantro o menta picada, sal.
-- **Proporción:** 1 taza de yogur + 1 cucharada de jugo.
-- **Tip:** ideal para acompañar carnes a la parrilla o como dip de verduras.
+- **Ingredientes:** Vinagreta Base + Cebolla picada + Locote picado (Del freezer o frescos).
+- **Uso:** Ideal para acompañar asado o carne al horno.
 
-## Salsa de soja y miel
+### Limón y Oliva
 
-- **Base:** salsa de soja, miel, ajo picado, jengibre rallado.
-- **Proporción:** 3 partes de soja por 1 de miel.
-- **Tip:** calienta ligeramente para mezclar bien; sirve con pollo o cerdo.
+- **Ingredientes:** Jugo de 1 Limón Sutil + Chorrito de Aceite de Oliva + Sal.
+- **Uso:** Para ensaladas verdes o milanesas.
 
-## Salsa de tomate rápida (para pasta o bowls)
+---
 
-- **Base:** tomate triturado, aceite de oliva, ajo, albahaca, sal.
-- **Procedimiento:** sofreír ajo 1 min, añadir tomate 5 min, albahaca al final.
-- **Tip:** se conserva 5 días y se puede congelar.
+## 2. Salsas Cremosas (Base Mayonesa/Yogur)
+
+### Salsa Rosada (Gol)
+
+- **Ingredientes:** 3 cdas Mayonesa + 1 cda Ketchup + Gotas de limón.
+- **Uso:** Ensaladas de palmitos, huevo duro o para untar mandioca.
+
+### Mayonesa de Ajo (Alioli Falso)
+
+- **Ingredientes:** 3 cdas Mayonesa + 1 cdita Ajo en Polvo (o 1 diente machacado) + Perejil picado.
+- **Uso:** Para carnes, sándwiches o papas fritas.
+
+### Salsa de Yogur (Fresca)
+
+- **Ingredientes:** 1/2 taza Yogur Natural + Jugo de limón + Pepino rallado (opcional) + Menta o Eneldo.
+- **Uso:** Para acompañar cerdo, cordero o ensaladas de pepino.
+
+---
+
+## 3. Salsas para Cocinar (Wok/Estofado)
+
+### Salsa Oriental Express
+
+- **Ingredientes:** 3 cdas Salsa de Soja + 1 cda Miel + 1 cdita Jengibre (rallado o polvo).
+- **Uso:** Para tirar sobre el pollo en el wok al final de la cocción.
+
+### Chimichurri de Frasco (Hidratado)
+
+- **Ingredientes:** 2 cdas "Adobo para Pizza" o "Provenzal" (seco) + Aceite + Vinagre + Agua tibia (chorrito para hidratar).
+- **Uso:** Dejar reposar 1 hora. Para choripan o carne asada.
+
+### Tuco Rápido (Salsa de Tomate)
+
+- **Ingredientes:** 1 lata Extracto de Tomate + 1/2 lata de Agua + Cebolla picada + Laurel + Pizca de azúcar.
+- **Uso:** Hervir 5 min. Para pastas, polenta o albóndigas.
+
+---
+
+## 4. Picantes
+
+### Salsa Picante Casera
+
+- **Ingredientes:** Salsa de Tomate + Ají molido (o gotas de salsa picante) + Vinagre.
+- **Uso:** Para levantar guisos o mandioca.
+
+---
+
+> **Tip de Conservación:**
+>
+> - Las vinagretas duran semanas en frasco (heladera).
+> - Las cremosas con ajo/hierbas frescas, consumir en 3 días.
+> - El chimichurri mejora con los días.

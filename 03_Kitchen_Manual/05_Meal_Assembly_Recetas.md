@@ -31,7 +31,7 @@
 ## 2. El "Kit de Presión" (Bolsa de Olla)
 
 > **Instrucción para Ayudante:** Congelar todo junto en un bloque sólido que entre en la olla.
-> **Instrucción para Usuario:** Tirar bloque congelado a la olla + 1 Taza de Agua. 40 mins.
+> **Instrucción para Usuario:** Tirar bloque congelado a la olla + 1 Taza de Agua. Configurar "Alta Presión" (Manual) por 45 mins.
 
 1.  **El Sabor (Sofrito):**
     - 1 Taza de la mezcla "Cebolla/Locote/Ajo" picado.
