@@ -12,12 +12,14 @@
 
 | Categoría | Costo (Gs.) | USD |
 |:----------|------------:|----:|
-| Carne (costillar + pollo) | 340,000 | $50 |
-| Verduras básicas | 70,000 | $10 |
-| Despensa mínima | 80,000 | $12 |
-| **TOTAL** | **490,000 Gs.** | **~$72** |
+| Carne (costillar + pollo) | 500,000 | $74 |
+| Verduras completas | 95,000 | $14 |
+| Frutas | 65,000 | $10 |
+| Despensa mínima | 65,000 | $10 |
+| **TOTAL** | **725,000 Gs.** | **~$107** |
 
 **Comidas:** ~25-30 porciones de proteína
+**Duración:** 3-4 semanas
 
 ---
 
@@ -119,20 +121,100 @@ COSTILLAR ENTERO (10 kg)
 
 ---
 
-# 🥬 VERDURAS - SOLO LO BÁSICO
+# 🥬 VERDURAS COMPLETAS
+
+## Verduras Base (Para Cocinar)
+
+| ⬜ | Producto | Cantidad | Precio | Total | Uso |
+|:--:|:---------|:---------|-------:|------:|:----|
+| ⬜ | **Cebolla blanca** | 3 kg | 2,750/kg | 8,250 | Sofrito, guiso, todo |
+| ⬜ | **Papa** | 5 kg | 3,500/kg | 17,500 | Puré, horno, fritas |
+| ⬜ | **Mandioca** | 5 kg | 3,300/kg | 16,500 | Hervida, frita, guiso |
+| ⬜ | **Batata** | 2 kg | 3,500/kg | 7,000 | Horno, puré |
+| ⬜ | **Zapallo** | 2 kg | 2,500/kg | 5,000 | Guiso, puré, horno |
+| ⬜ | **Zanahoria** | 2 kg | 2,500/kg | 5,000 | Guiso, ensalada, caldo |
+| | **Subtotal Base** | | | **59,250** | |
+
+## Verduras para Sofrito y Sabor
+
+| ⬜ | Producto | Cantidad | Precio | Total | Uso |
+|:--:|:---------|:---------|-------:|------:|:----|
+| ⬜ | **Tomate perita** | 2 kg | 4,500/kg | 9,000 | Salsa, guiso |
+| ⬜ | **Locote rojo** | 1 kg | 5,500/kg | 5,500 | Sofrito, ensalada |
+| ⬜ | **Locote verde** | 0.5 kg | 4,500/kg | 2,250 | Sofrito |
+| ⬜ | **Ajo** | 0.3 kg | 50,000/kg | 15,000 | Todo |
+| | **Subtotal Sofrito** | | | **31,750** | |
+
+## Verduras Frescas (Ensaladas)
+
+| ⬜ | Producto | Cantidad | Precio | Total | Duración |
+|:--:|:---------|:---------|-------:|------:|:---------|
+| ⬜ | **Lechuga** | 2 unidades | 1,500/un | 3,000 | 5-7 días |
+| ⬜ | **Tomate ensalada** | 1 kg | 4,500/kg | 4,500 | 5 días |
+| ⬜ | **Pepino** | 0.5 kg | 4,500/kg | 2,250 | 7 días |
+| | **Subtotal Frescas** | | | **9,750** | |
+
+## Hierbas Frescas
 
 | ⬜ | Producto | Cantidad | Precio | Total |
 |:--:|:---------|:---------|-------:|------:|
-| ⬜ | Cebolla | 3 kg | 2,750/kg | 8,250 |
-| ⬜ | Papa | 3 kg | 3,500/kg | 10,500 |
-| ⬜ | Mandioca | 3 kg | 3,300/kg | 9,900 |
-| ⬜ | Tomate | 1 kg | 4,500/kg | 4,500 |
-| ⬜ | Zanahoria | 1 kg | 2,500/kg | 2,500 |
-| ⬜ | Locote | 1 kg | 5,000/kg | 5,000 |
-| ⬜ | Ajo | 0.25 kg | 50,000/kg | 12,500 |
-| ⬜ | Limón | 0.5 kg | 8,000/kg | 4,000 |
-| ⬜ | Perejil | 1 mazo | 2,500 | 2,500 |
-| | **TOTAL VERDURAS** | | | **59,650** |
+| ⬜ | **Perejil** | 2 mazos | 2,500 | 5,000 |
+| ⬜ | **Cebollita verdeo** | 2 mazos | 1,500 | 3,000 |
+| ⬜ | **Limón** | 1 kg | 8,000/kg | 8,000 |
+| | **Subtotal Hierbas** | | | **16,000** | |
+
+---
+
+## 📦 TOTAL VERDURAS: **116,750 Gs.**
+
+### Almacenamiento de Verduras
+
+| Verdura | Dónde | Duración | Prep |
+|:--------|:------|:---------|:-----|
+| Cebolla | Despensa oscura | 3-4 semanas | - |
+| Papa | Despensa oscura | 3-4 semanas | - |
+| Mandioca | **FREEZER** | 2-3 meses | Pelar, trozar, congelar |
+| Batata | Despensa | 2-3 semanas | - |
+| Zapallo | Despensa/Freezer | 2 semanas / 3 meses | Cubos al freezer |
+| Zanahoria | Heladera | 2-3 semanas | - |
+| Tomate | Heladera | 5-7 días | - |
+| Locote | Heladera | 1 semana | Picar y freezar extra |
+| Ajo | Despensa | 1 mes | - |
+| Lechuga | Heladera | 5-7 días | Lavar y secar |
+| Hierbas | Heladera (vaso agua) | 1 semana | - |
+
+---
+
+# 🍎 FRUTAS
+
+## Frutas de Consumo Diario
+
+| ⬜ | Producto | Cantidad | Precio | Total | Duración |
+|:--:|:---------|:---------|-------:|------:|:---------|
+| ⬜ | **Banana** | 2 docenas | 7,000/doc | 14,000 | 7-10 días |
+| ⬜ | **Naranja** | 2 docenas | 6,000/doc | 12,000 | 2 semanas |
+| ⬜ | **Manzana** | 1 kg | 17,000/kg | 17,000 | 2 semanas |
+| ⬜ | **Limón** | (ya en hierbas) | - | - | - |
+| | **Subtotal Diario** | | | **43,000** | |
+
+## Frutas de Temporada / Variedad
+
+| ⬜ | Producto | Cantidad | Precio | Total | Uso |
+|:--:|:---------|:---------|-------:|------:|:----|
+| ⬜ | **Sandía** | 1 unidad | 20,000 | 20,000 | Postre, snack |
+| ⬜ | **Mamón/Papaya** | 1 unidad | 15,000 | 15,000 | Desayuno |
+| | **Subtotal Temporada** | | | **35,000** | |
+
+---
+
+## 📦 TOTAL FRUTAS: **78,000 Gs.**
+
+### Tips de Frutas
+
+- **Banana:** Si maduran mucho → freezer para licuados
+- **Naranja:** Exprimir y congelar jugo en cubeteras
+- **Manzana:** Guardar separada (acelera maduración de otras)
+- **Sandía/Mamón:** Cortar y guardar en tupper en heladera
 
 ---
 
@@ -157,12 +239,23 @@ COSTILLAR ENTERO (10 kg)
 
 | Categoría | Total (Gs.) |
 |:----------|------------:|
-| Costillar entero (10 kg) | 400,000 |
-| Pollos enteros (5 kg) | 100,000 |
-| Verduras básicas | 59,650 |
-| Despensa mínima | 65,000 |
-| **TOTAL** | **624,650 Gs.** |
-| **USD** | **~$92** |
+| 🥩 Costillar entero (10 kg) | 400,000 |
+| 🐔 Pollos enteros (5 kg) | 100,000 |
+| 🥬 Verduras completas | 116,750 |
+| 🍎 Frutas | 78,000 |
+| 🏪 Despensa mínima | 65,000 |
+| **TOTAL** | **759,750 Gs.** |
+| **USD** | **~$112** |
+
+### Desglose Visual
+
+```
+TOTAL: 759,750 Gs.
+├── 🥩 Carnes ────────── 500,000 (66%)
+├── 🥬 Verduras ──────── 116,750 (15%)
+├── 🍎 Frutas ────────── 78,000 (10%)
+└── 🏪 Despensa ──────── 65,000 (9%)
+```
 
 ---
 
@@ -214,7 +307,7 @@ Repetir rotando entre:
 
 # ✅ CHECKLIST DE COMPRA
 
-## En la Carnicería (Abasto)
+## 🥩 En la Carnicería (Abasto)
 
 - [ ] Pedir **costillar entero** (8-10 kg)
 - [ ] Que lo corten: tiras anchas + tiras finas + tapa separada
@@ -222,17 +315,48 @@ Repetir rotando entre:
 - [ ] **Negociar:** "Por llevar entero, ¿a cuánto me deja el kilo?"
 - [ ] 2 pollos enteros con menudos
 
-## En Verdulería
+## 🥬 En Verdulería (Abasto)
 
-- [ ] Cebolla, papa, mandioca (lo que más se usa)
-- [ ] Tomate, zanahoria, locote (para sofrito)
-- [ ] Ajo, limón, perejil (condimentos frescos)
+**Base (duran más):**
+- [ ] Cebolla 3 kg
+- [ ] Papa 5 kg
+- [ ] Mandioca 5 kg
+- [ ] Batata 2 kg
+- [ ] Zapallo 2 kg
+- [ ] Zanahoria 2 kg
 
-## En Supermercado
+**Sofrito:**
+- [ ] Tomate perita 2 kg
+- [ ] Locote rojo 1 kg
+- [ ] Locote verde 0.5 kg
+- [ ] Ajo 300g
 
-- [ ] Arroz, fideos
-- [ ] Aceite, sal (fina + parrillera)
+**Frescas (comprar menos, duran poco):**
+- [ ] Lechuga 2 unidades
+- [ ] Tomate ensalada 1 kg
+- [ ] Pepino 0.5 kg
+
+**Hierbas:**
+- [ ] Perejil 2 mazos
+- [ ] Cebollita verdeo 2 mazos
+- [ ] Limón 1 kg
+
+## 🍎 En Frutería (Abasto)
+
+- [ ] Banana 2 docenas
+- [ ] Naranja 2 docenas
+- [ ] Manzana 1 kg
+- [ ] Sandía 1 unidad
+- [ ] Mamón 1 unidad
+
+## 🏪 En Supermercado
+
+- [ ] Arroz 1 kg
+- [ ] Fideos 2 x 500g
+- [ ] Aceite 900ml
+- [ ] Sal fina + parrillera
 - [ ] Especias: comino, orégano, pimienta
+- [ ] Extracto de tomate
 
 ---
 
