@@ -17,8 +17,6 @@
 
 - [ ] **1 x Plancha de Huevos Caseros (30 un)**
   - _Calidad:_ Yema naranja intenso (Caseros/Camperos).
-- [ ] **3 kg Huesos Blancos / Carcasas**
-  - _Uso:_ Caldo de Huesos + BARF para perros.
 
 ---
 
@@ -75,6 +73,5 @@ _Para cocciones lentas y decoración._
 
 ## 📦 6. INSUMOS DE PROCESO
 
-- [ ] **Bolsas de Vacío (Rollos)** - Stock crítico.
 - [ ] **Sal Gruesa (5kg)**.
 - [ ] **Pimienta en Grano**.
